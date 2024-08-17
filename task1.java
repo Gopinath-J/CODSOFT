@@ -13,7 +13,7 @@ public class task1 {
         for(int round=1;round<=maxRounds;round++){
             int randomNumber=random.nextInt(100)+1;
             int attempts=0;
-            int maxAttempts=3;
+            int maxAttempts=10gir;
             boolean guessedCorrectly=false;
 
 
